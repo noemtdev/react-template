@@ -1,0 +1,20 @@
+{
+  "pageName": "React Template",
+  "pageDescription": "This is a React Template Website created by nom.",
+  "header": {
+    "navItems": [
+        { "to": "/", "label": "Home" },
+        { "to": "/test-components", "label": "Components"}
+      ]
+
+  },
+  "footer": {
+    "links": [
+      { "href": "https://discord.gg/noms", "label": "Discord", "icon": "fab fa-discord" },
+      { "href": "https://github.com/noemtdev", "label": "GitHub", "icon": "fab fa-github"}
+    ],
+    "textAboveLinks": ["Check out nom!"],
+    "copyright": "nom",
+    "copyrightUrl": "https://noemt.dev"
+  }
+}
