@@ -1,10 +1,10 @@
 {
-  "short_name": "Example-Website",
+  "short_name": "React",
   "name": "React Template",
   "icons": [
     {
-      "src": "./assets/favicon.ico",
-      "sizes": "31x32",
+      "src": "./assets/icon.webp",
+      "sizes": "300x300",
       "type": "image/png"
     }
   ],
